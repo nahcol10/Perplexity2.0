@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@import "tailwindcss";
+
+.chat-area {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow-y: auto;
+  width: 100%;
+}
+
+form {
+  margin: 1em;
+  width: 100%;
+}
+
+.streaming-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.response-stage {
+  margin-bottom: 15px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .chat-area {
+    width: 100%;
+  }
+
+  .streaming-container {
+    padding: 10px;
+  }
+}
