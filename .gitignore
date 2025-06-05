@@ -1,0 +1,8 @@
+# Still ignore these specific patterns even in allowed directories
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
