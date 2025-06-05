@@ -1,4 +1,4 @@
-# Perplexity-2O
+# Perplexity-2.O
 
 A conversational AI agent with web search capabilities powered by Google's Gemini 2.0 model and LangGraph. This project demonstrates how to build an AI assistant that can search the internet for information and provide responses based on up-to-date information.
 
