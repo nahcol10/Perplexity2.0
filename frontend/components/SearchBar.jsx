@@ -24,7 +24,7 @@ export default function SearchBar({ chatId, onNewChat }) {
     setIsLoading(true);
     setResponseContent('');
 
-    const baseUrl = "http://127.0.0.1:8000/chat_stream/";
+    const baseUrl = "https://perplexity1-1-0.onrender.com/chat_stream/";
     const url = checkpointId
       ? `${baseUrl}${encodedQuery}?checkpoint_id=${checkpointId}`
       : `${baseUrl}${encodedQuery}`;
