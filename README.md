@@ -73,7 +73,9 @@ The graph structure is visualized in the notebook using Mermaid diagrams, showin
 - Tool node: Executes web searches and returns results
 
 ## Demo
-<video controls src="Screencast From 2025-06-05 15-35-12.mp4" title="Title"></video>
+[![Perplexity-2O Demo](https://img.youtube.com/vi/wGAKuV7wHE0/0.jpg)](https://youtu.be/wGAKuV7wHE0)
+
+You can watch the demo video [here](https://youtu.be/wGAKuV7wHE0).
 
 ## License
 
