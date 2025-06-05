@@ -72,6 +72,9 @@ The graph structure is visualized in the notebook using Mermaid diagrams, showin
 - Tool router: Determines if a tool call is needed
 - Tool node: Executes web searches and returns results
 
+## Demo
+<video controls src="Screencast From 2025-06-05 15-35-12.mp4" title="Title"></video>
+
 ## License
 
 [MIT License](LICENSE)
